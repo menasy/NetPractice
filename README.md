@@ -1,4 +1,4 @@
-# 42 Net Practise
+# 42 Net Practice
 
 Bu proje kapsamında ağ yapılarına ve IP adresleme sistemlerine dair detaylı çalışmalar yaptım. Çeşitli ağ cihazları, yönlendirme protokolleri ve subnetting konularında bilgi sahibi oldum. Bu projeyi tamamladıktan sonra, ağlar ve yönlendirme tabloları ile ilgili çok daha geniş bir anlayış kazandım. Aşağıda proje sırasında öğrendiklerimi ve proje çıktıları hakkında bilgi bulabilirsiniz.
 
