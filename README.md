@@ -29,12 +29,17 @@ Bu proje kapsamında ağ yapılarına ve IP adresleme sistemlerine dair detaylı
 
 5. **Genel Ağ Bilgisi ve NetPractise Konuları:**
    - Ağ cihazları, yönlendirme, ve diğer ağ konularını öğrenmek için kullandığım Türkçe video serisi.
+   - Anlatımı gerçekten çok başarılı ve bu prjeye dair hemen hemen her şeyi çok iyi şekilde görselleştirerek anlatıyor.
+   - Tüm videoları izledikten sonra protokoller, ağ aygıtları, ağ yapıları ve ağlardaki haberleşme gibi konularda önemli bilgiler edinecekiniz.
    - [Temel Ağ Yapıları Video Serisi](https://youtube.com/playlist?list=PLe-saRM3WlvNJFG4DfwYzTL9P20M6DPHj&si=elcdnDaOxjCkkSeB)
-   - [Ağ Bilgisi ve NetPractise Belgelendirme](https://www.linuxdersleri.net/temel-network)
+   - [Temel Ağ Yapıları Dökümantasyonu](https://www.linuxdersleri.net/temel-network)
 
 6. **Router Yönlendirme Tabloları:**
    - Yönlendirme tabloları ile router’ların veriyi nasıl yönlendirdiği üzerine çalıştım.
    - [Router Yönlendirme Tabloları](https://firatesatoglu.medium.com/y%C3%B6nlendirme-algoritmalar%C4%B1-nelerdir-router-y%C3%B6nlendirmeyi-nelere-g%C3%B6re-yapar-routing-algorithms-cdc553ab72c4)
+
+   - Bu kaynakları inceleyip çalıştıktan sonra projeyi rahatlıkla yapabilecek düzeye gelir, kafanızdaki soru işaretlerini giderebilirsiniz.
+   - Levelleri çözerken herhangi bir sorunla karşılaşmanız durumunda, aşağıda levellerin çözüm örnekleri de bulunmaktadır. İyi çalışmalar! :)
 
 ## Proje Görselleri
 
@@ -51,7 +56,3 @@ Projede yaptığım çalışmaları gösteren görseller aşağıdadır:
 - ![Level 9](https://github.com/menasy/NetPractice/blob/main/Levels_Png/level9.png)
 - ![Level 10](https://github.com/menasy/NetPractice/blob/main/Levels_Png/level10.png)
 
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Dosya seçilmedi
-Attach files by dragging & dropping, selecting or pasting them.
-Editing Net-Practice/README.md at main · menasy/Net-Practice 
