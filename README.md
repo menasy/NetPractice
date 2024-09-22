@@ -37,9 +37,10 @@ Bu proje kapsamında ağ yapılarına ve IP adresleme sistemlerine dair detaylı
 6. **Router Yönlendirme Tabloları:**
    - Yönlendirme tabloları ile router’ların veriyi nasıl yönlendirdiği üzerine çalıştım.
    - [Router Yönlendirme Tabloları](https://firatesatoglu.medium.com/y%C3%B6nlendirme-algoritmalar%C4%B1-nelerdir-router-y%C3%B6nlendirmeyi-nelere-g%C3%B6re-yapar-routing-algorithms-cdc553ab72c4)
+   
 
-   - Bu kaynakları inceleyip çalıştıktan sonra projeyi rahatlıkla yapabilecek düzeye gelir, kafanızdaki soru işaretlerini giderebilirsiniz.
-   - Levelleri çözerken herhangi bir sorunla karşılaşmanız durumunda, aşağıda levellerin çözüm örnekleri de bulunmaktadır. İyi çalışmalar! :)
+   Bu kaynakları inceleyip çalıştıktan sonra projeyi rahatlıkla yapabilecek düzeye gelir, kafanızdaki soru işaretlerini giderebilirsiniz.
+   Levelleri çözerken herhangi bir sorunla karşılaşmanız durumunda, aşağıda levellerin çözüm örnekleri de bulunmaktadır. İyi çalışmalar! :)
 
 ## Proje Görselleri
 
