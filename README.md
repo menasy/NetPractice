@@ -38,8 +38,9 @@ Bu proje kapsamında ağ yapılarına ve IP adresleme sistemlerine dair detaylı
    - Yönlendirme tabloları ile router’ların veriyi nasıl yönlendirdiği üzerine çalıştım.
    - [Router Yönlendirme Tabloları](https://firatesatoglu.medium.com/y%C3%B6nlendirme-algoritmalar%C4%B1-nelerdir-router-y%C3%B6nlendirmeyi-nelere-g%C3%B6re-yapar-routing-algorithms-cdc553ab72c4)
 7. **Bilgisayar Ağları Ders Kitabı:**
-   Bu PDF, bilgisayar ağlarının temel yapıtaşlarını adım adım açıklayan detaylı bir kaynak niteliğindedir. Ağ mimarileri, topolojiler, fiziksel katman, protokoller, OSI-TCP/IP katmanları,     uygulama ve taşıma protokolleri, ağ cihazları gibi birçok konuyu kapsamaktadır. Teorik bilgiyi somutlaştırmak isteyenler için ayrıntılı ve iyi bir yardımcı kaynaktır.
-   📥 [Bilgisayar Ağları Ders Kitabı - PDF olarak indir](https://github.com/menasy/NetPractice/blob/main/BilgisayarAglari.pdf)
+   - Bu PDF, bilgisayar ağlarının temel yapıtaşlarını adım adım açıklayan detaylı bir kaynak niteliğindedir. Ağ mimarileri, topolojiler, fiziksel katman, protokoller, OSI-TCP/IP
+     katmanları, uygulama ve taşıma protokolleri, ağ cihazları gibi birçok konuyu kapsamaktadır. Teorik bilgiyi somutlaştırmak isteyenler için ayrıntılı ve iyi bir yardımcı kaynaktır.
+   - 📥 [Bilgisayar Ağları Ders Kitabı - PDF olarak indir](https://github.com/menasy/NetPractice/blob/main/BilgisayarAglari.pdf)
 
    Bu kaynakları inceleyip çalıştıktan sonra projeyi rahatlıkla yapabilecek düzeye gelir, kafanızdaki soru işaretlerini giderebilirsiniz.
    Levelleri çözerken herhangi bir sorunla karşılaşmanız durumunda, aşağıda levellerin çözüm örnekleri de bulunmaktadır. İyi çalışmalar! :)
